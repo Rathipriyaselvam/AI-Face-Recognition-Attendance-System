@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+
+temp.jpg
+
+.streamlit/secrets.toml
+
+attendance/attendance.csv
+
+reports/
+
+.DS_Store
+
+dataset/

@@ -53,7 +53,7 @@ text FaceAttendanceSystem │ ├── app.py ├── face_registration.py �
 
 ### Clone Repository
 
-bash git clone https://github.com/YOUR_USERNAME/AI-Face-Recognition-Attendance-System.git  cd AI-Face-Recognition-Attendance-System 
+bash git clone https://github.com/Yuvi_071/AI-Face-Recognition-Attendance-System.git  cd AI-Face-Recognition-Attendance-System 
 
 ### Create Virtual Environment
 

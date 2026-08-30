@@ -114,16 +114,6 @@ bash python face_recognition.py
 
 ---
 
-## 👨‍💻 Author
-
-Yuvraj Russell
-
-Artificial Intelligence & Data Science Student
-
-Passionate about AI, Machine Learning, Computer Vision, and Full-Stack Development.
-
----
-
 ## 📜 License
 
 This project is developed for educational and research purpo
